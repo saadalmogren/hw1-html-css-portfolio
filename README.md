@@ -56,7 +56,7 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 - NOTE: There is **no starter code** for this assignment (only starter text), but a **sample** solution is [provided](solution).  Students will build this assignment from scratch and should feel free to get creative with regard to layout, color, styling, etc.
 
-- Slides from [class 1](../01_html_basics/slides.md) and [class 2](../02_css_basics/slides.md).
+- Slides from [class 1](https://github.com/misk-fewd2/01_html_basics/blob/master/GA-FEWD-intro-and-html.pdf) and [class 2](https://github.com/misk-fewd2/02_css_basics/blob/master/GA-FEWD-css-basics.pdf).
 
 Here are examples of a simple "About" and "Portfolio" page that fulfill the assignment requirements:
 
